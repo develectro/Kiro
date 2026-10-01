@@ -3,7 +3,7 @@
   
   # Kiro
   
-  Kiro is an agentic IDE that helps you go from prototype to production with spec-driven development, agent hooks, and natural language coding assistance. Build faster with AI-powered features that understand your entire codebase, turn prompts into structured specs, and automate repetitive tasks.
+  Kiro is an agentic IDE that helps you go from prototype to production with  spec-driven development, agent hooks, and natural language coding assistance. Build faster with AI-powered features that understand your entire codebase, turn prompts into structured specs, and automate repetitive tasks.
   
 </div>
 
